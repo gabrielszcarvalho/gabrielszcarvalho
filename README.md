@@ -26,15 +26,3 @@
 <p><img src="https://profile-counter.glitch.me/{gabrielszcarvalho}/count.svg" /></p> 
 <br>
 </div>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/gabrielszcarvalho/gabrielszcarvalho/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/gabrielszcarvalho/gabrielszcarvalho/output/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
