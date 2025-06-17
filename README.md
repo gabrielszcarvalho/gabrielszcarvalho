@@ -1,16 +1,40 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00009B&size=35&center=false&vCenter=false&width=1000&lines=HELLO,+My+name+is+Gabriel+Carvalho;I'm+19+years+old;I'm+from+Brazil;Technical+Consultant;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<!--
-**gabrielszcarvalho/gabrielszcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div> 
+  <a href="https://github.com/gabrielszcarvalho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielszcarvalho&show_icons=true&theme=transparent"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href="https://github.com/gabrielszcarvalho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielszcarvalho&show_icons=true&theme=transparent"/>
+</div>
+
+<div>
+<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
+  <img align="center" alt="" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
+</div>
+
+
+<div>
+<br><p align="centre"><b>Profile Access:</b></p>  
+<p><img src="https://profile-counter.glitch.me/{gabrielszcarvalho}/count.svg" /></p> 
+<br>
+</div>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gabrielszcarvalho/gabrielszcarvalho/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/gabrielszcarvalho/gabrielszcarvalho/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
