@@ -2,24 +2,39 @@
 
 ###
 
-<div> 
+<div class="row" style="width: 420px;">
   <a href="https://github.com/gabrielszcarvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielszcarvalho&show_icons=true&theme=transparent"/>
+    <img width="420px" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielszcarvalho&show_icons=true&hide_border=false&count_private=true&theme=transparent"/>
+  </a>
 </div>
-
-<div> 
-  <a href="https://github.com/gabrielszcarvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielszcarvalho&show_icons=true&theme=transparent"/>
-</div>
-
 <div>
-<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
-  <img align="center" alt="" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
+  <a href="https://github.com/gabrielszcarvalho">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielszcarvalho&theme=transparent&show_icons=true&hide_border=false&layout=compact"/>
+  </a>
 </div>
+<br>
+<table">
+  <tr>
+      <div>
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
+      </div>
+      <br>
+      <div>
+        <img height="30" width="40" src="https://static.wikia.nocookie.net/delphi/images/9/96/Delphi7.png/revision/latest?cb=20090511211324">
+        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+        <img height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
+      </div>
+    </td>
+  </tr>
+</table>
 
+<br>
 
 <div>
 <br><p align="centre"><b>Profile Access:</b></p>  
