@@ -30,11 +30,3 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-<div>
-<br><p align="centre"><b>Profile Access:</b></p>  
-<p><img src="https://profile-counter.glitch.me/{gabrielszcarvalho}/count.svg" /></p> 
-<br>
-</div>
