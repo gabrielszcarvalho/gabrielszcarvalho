@@ -1,16 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00009B&size=35&center=false&vCenter=false&width=1000&lines=HELLO,+My+name+is+Gabriel+Carvalho;I'm+19+years+old;I'm+from+Brazil;Technical+Consultant;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-###
-
-<div>
-  <a href="https://github.com/gabrielszcarvalho">
-    <img width="420px" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielszcarvalho&show_icons=true&hide_border=false&count_private=true&theme=transparent"/>
-  </a>
-  <a href="https://github.com/gabrielszcarvalho">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielszcarvalho&theme=transparent&show_icons=true&hide_border=false&layout=compact"/>
-  </a>
-</div>
-<br>
 <table">
   <tr>
       <div>
